@@ -1,0 +1,20 @@
+{
+    "trombs": [
+        {
+            "value": 100,
+            "name": "A"
+        },
+        {
+            "value": 100,
+            "name": "B"
+        },
+        {
+            "value": 100,
+            "name": "c"
+        },
+        {
+            "value": 100,
+            "name": "D"
+        }
+    ]
+}
